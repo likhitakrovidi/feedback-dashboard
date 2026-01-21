@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "feedback-dashboard",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9141767d-7bb4-48b5-8bc0-2af277fabafa",
+			"database_name": "feedback-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
